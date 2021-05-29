@@ -1,4 +1,0 @@
-test file
-
-  처음 고쳐봅시다.
-  second
